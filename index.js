@@ -27,5 +27,5 @@ rl.on('close', function () {
     itemsArr=sortIntegerArr(itemsArr);
     console.log('Got ' + numNumbers + ' distinct numbers');
     const numOfTs = count2sums(itemsArr, -10000, 10000);
-    console.log('Number of target velues: ' + numOfTs);
+    console.log('Number of target values: ' + numOfTs);
 });

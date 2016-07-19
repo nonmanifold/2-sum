@@ -1,0 +1,11 @@
+{
+  "name": "2-sum",
+  "version": "1.0.0",
+  "description": "Computing count of 2-sum's on 1 million of integers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "author": "Nick Serebrennikov",
+  "license": "MIT"
+}
